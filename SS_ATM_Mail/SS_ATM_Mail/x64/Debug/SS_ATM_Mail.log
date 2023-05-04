@@ -1,0 +1,19 @@
+﻿  Source.cpp
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(110,2): warning C4102: 'again': unreferenced label
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(382,6): warning C4101: 'len_update': unreferenced local variable
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(383,6): warning C4101: 'len_final': unreferenced local variable
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(496,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(525,9): warning C4101: 'outlen': unreferenced local variable
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(541,9): warning C4101: 'outlen': unreferenced local variable
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(572,23): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(609,136): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(644,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(645,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(646,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(719,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(721,76): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(732,80): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(782,11): warning C4101: 'title_len': unreferenced local variable
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(783,11): warning C4101: 'messg_len': unreferenced local variable
+D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\SS_ATM_Mail\Source.cpp(273): warning C4172: returning address of local variable or temporary: timestamp
+  SS_ATM_Mail.vcxproj -> D:\_FACULTATE\semestrul_2_DUM\_examen\criptografie\lab\9\SS_ATM_Mail\x64\Debug\SS_ATM_Mail.exe
